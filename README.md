@@ -1,7 +1,7 @@
 
 Hello! My name is Issac.  
 
-I have a background in astrophysics, digital art, and informal STEM education.  My interests range from anything science and tech related, to games, story writing, and art. 
+I have a background in astrophysics, digital art, and informal STEM education.  My interests range from anything science and tech related, to games, story writing, and art. I love learning new things and getting hands-on.
 
 
 ---
