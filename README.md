@@ -1,14 +1,23 @@
 
-Hello! 
+Hello! My name is Issac.  
 
-I am open to collaborating on projects or taking on jobs.
+I have a background in astrophysics, digital art, and informal STEM education.  My interests range from anything science and tech related, to games, story writing, and art. 
 
-I currently am familiar with Javascript, Java, C, and Python.
 
-I am open to learning any new languages, libraries, frameworks, databases, etc. 
+---
+Technologies: 
+> Java, Javascript, Python, C, MongoDB, Mongoose, Django, mySQL, SQL, NoSQL, jQuery, AJAX, Node, Express, Spring Boot, Flask, Bootstrap, NGINX, Redux, HTML, CSS, AWS, Microsoft Azure products
 
-I have a background in astrophysics, digital art, and informal STEM education.
+---
 
+Current personal projects:
+>* Discord Bot
+>* Obsidian Timeline Plugin
+>* Mockup Art Website
+
+---
+
+**I would love to get involve or start a project working with scientific data, but am open to any kind of collaboration!**
 
 <!---
 - 👋 Hi, I’m @IssacWard
